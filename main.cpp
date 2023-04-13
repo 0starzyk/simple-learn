@@ -1,9 +1,9 @@
 #include <iostream>
-#include "Array.hpp"
+#include "array.hpp"
 
 int main()
 {
-    slearn::Array<float> a;
-    slearn::Array<double> b;
+    slearn::array<float> a;
+    slearn::array<double> b;
     std::cout << "Hello learn" << std::endl;
 }
